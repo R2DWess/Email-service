@@ -1,4 +1,4 @@
-package com.email.uber.wzzy;
+package com.email.uber.wzzy.config;
 
 import io.github.cdimascio.dotenv.Dotenv;
 import org.springframework.context.annotation.Bean;
