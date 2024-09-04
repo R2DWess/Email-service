@@ -1,5 +1,7 @@
 package com.email.uber.wzzy.controller;
 
+import com.email.uber.wzzy.core.EmailRequest;
+import com.email.uber.wzzy.core.exception.EmailServiceException;
 import com.email.uber.wzzy.service.EmailSenderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
