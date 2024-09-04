@@ -45,3 +45,8 @@ mvn spring-boot:run
 - Git
 - GitHub
 - IntelliJ IDEA
+
+📝 License
+This project is licensed. See the [LICENSE](https://github.com/R2DWess/Email-service/blob/master/LICENSE) file for more details.
+
+
